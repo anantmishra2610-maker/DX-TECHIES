@@ -1,0 +1,7 @@
+{
+  "name": "DX Techies Surveillance Pro",
+  "description": "An advanced real-time surveillance system utilizing TensorFlow.js for object detection, featuring crowd monitoring, automated alerts, and activity logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
